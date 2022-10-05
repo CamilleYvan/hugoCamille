@@ -1,5 +1,5 @@
 +++
-title =  "{{ replace .TranslationBaseName "-" " " | title }}"
+title =  "{{ replace .TranslationBaseName "-" " " | Camille }}"
 date = {{ .Date }}
 tags = []
 featured_image = ""
